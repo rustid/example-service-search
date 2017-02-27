@@ -1,4 +1,4 @@
-# Elasticsearch importer example
+# Elasticsearch service example
 This piece of code will give you example how to query data from elastic search.
 
 ## Elasticsearch Map
